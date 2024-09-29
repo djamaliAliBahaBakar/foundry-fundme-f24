@@ -1,6 +1,7 @@
-#About
+## About
 
-This a a crowd sourcing app
+This is a decentralized crownfunding contract.It functions much like _Kickstarter_, allowing users to **send** any native blockchain cryptocurrency. They also enable the owner of the contract to **withdraw** all the funds collected. This project comes from Cyfrin Updraft. 
+
 
 ## Foundry
 
